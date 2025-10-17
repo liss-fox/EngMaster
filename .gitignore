@@ -1,0 +1,7 @@
+main.db
+MainStyle.txt
+__pycache__/
+*.pyc
+*.idea
+venv/
+LICENSE
